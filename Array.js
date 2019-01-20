@@ -1,7 +1,5 @@
 'use strict';
 
-/* https://github.com/thinkful-ei20/DSA-Arrays-cam-katharine */
-
 // require in the memory module
 const Mem = require('./memory');
 const memory = new Mem();
